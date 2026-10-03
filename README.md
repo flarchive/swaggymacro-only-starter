@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of swaggymacro/only-starter.** Not for installation: use [Packagist](https://packagist.org/packages/swaggymacro/only-starter) or the [upstream repository](https://github.com/SwaggyMacro/OnlyStarter).
 
-**0** versions archived · Latest: [`0.6.6`](https://github.com/flarchive/swaggymacro-only-starter/tree/archive/v0.6.6) · License: `MIT` · Flarum: `^1.0.0`
+**12** versions archived · Latest: [`0.6.6`](https://github.com/flarchive/swaggymacro-only-starter/tree/archive/v0.6.6) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1` | 2022-04-22 | `^1.0.0` | [Browse](https://github.com/flarchive/swaggymacro-only-starter/tree/archive/v0.1) |
+| `0.2` | 2022-04-22 | `^1.0.0` | [Browse](https://github.com/flarchive/swaggymacro-only-starter/tree/archive/v0.2) |
+| `0.3` | 2022-04-22 | `^1.0.0` | [Browse](https://github.com/flarchive/swaggymacro-only-starter/tree/archive/v0.3) |
+| `0.4` | 2022-04-22 | `^1.0.0` | [Browse](https://github.com/flarchive/swaggymacro-only-starter/tree/archive/v0.4) |
+| `0.5` | 2022-04-25 | `^1.0.0` | [Browse](https://github.com/flarchive/swaggymacro-only-starter/tree/archive/v0.5) |
+| `0.6` | 2022-04-25 | `^1.0.0` | [Browse](https://github.com/flarchive/swaggymacro-only-starter/tree/archive/v0.6) |
+| `0.6.1` | 2022-04-25 | `^1.0.0` | [Browse](https://github.com/flarchive/swaggymacro-only-starter/tree/archive/v0.6.1) |
+| `0.6.2` | 2022-04-29 | `^1.0.0` | [Browse](https://github.com/flarchive/swaggymacro-only-starter/tree/archive/v0.6.2) |
+| `0.6.3` | 2022-04-30 | `^1.0.0` | [Browse](https://github.com/flarchive/swaggymacro-only-starter/tree/archive/v0.6.3) |
+| `0.6.4` | 2022-06-02 | `^1.0.0` | [Browse](https://github.com/flarchive/swaggymacro-only-starter/tree/archive/v0.6.4) |
+
+[View all 12 versions](https://github.com/flarchive/swaggymacro-only-starter/tags)
 
 Catalog entry: [packages/swaggymacro-only-starter.json](https://github.com/flarchive/archive-index/blob/main/packages/swaggymacro-only-starter.json)
 
